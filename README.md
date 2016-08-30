@@ -7,7 +7,7 @@
 
 
 #Prerequisite:
-1.machine is able to access BigQuery (install and configure gcloud).
 
+1.machine is able to access BigQuery (install and configure gcloud)
 2. you must have google cloud storage 
 
