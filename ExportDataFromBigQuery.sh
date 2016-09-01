@@ -1,8 +1,8 @@
 #!/bin/sh
 #-----------------------------------------------------
-# NAME:    Sync Genre 
-# PURPOSE: Sync Genre
-# $Header$ Sync Genre
+# NAME:    Export Data from bigquery 
+# PURPOSE: Export Data from bigquery
+# $Header$ Export Data from bigquery
 # $Author$ Rajnish Kumar
 #Scope: Export Data from bigquery table through query or complete table. 
 
